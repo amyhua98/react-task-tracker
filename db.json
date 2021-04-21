@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "04/23/2021",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Costco Trip",
+      "day": "04/24/2021",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Birthday Party",
+      "day": "04/26/2021",
+      "reminder": true
+    }
+  ]
+  
+  
+}
